@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary">#5B4BDB</color>
+    <color name="bg">#F7F7FA</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text">#17171C</color>
+    <color name="muted">#777784</color>
+    <color name="success">#168A58</color>
+    <color name="danger">#C62828</color>
+</resources>
